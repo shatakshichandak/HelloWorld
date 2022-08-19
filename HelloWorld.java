@@ -1,7 +1,6 @@
-class HelloWorld
+class Helloworld
 {
-    public static void main(String args)
-    {
-        System.out.println("hello world ....git demo")
+    public static void main(String[] args) {
+        System.out.println("github demo");
     }
 }
